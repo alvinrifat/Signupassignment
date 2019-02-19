@@ -1,0 +1,68 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+body{
+	background: url(../img/login.jpeg);
+	background-size: cover;
+	font-family: 'ZCOOL QingKe HuangYou', cursive;
+
+}
+.container{
+	    width: 508px;
+	    margin: 19px;
+}
+.signup-section{
+    background-color: #773939;
+    background: rgba(53, 44, 44, 0.36);
+    text-align: left;
+    padding: 55px;
+    border-radius: 85px;
+}
+.signup-section img{
+
+}
+.signup-section h2{
+
+color: darkseagreen;
+
+margin: 10px 145px;
+
+text-transform: uppercase;
+}
+p{
+    color: #0000008c;
+    font-style: oblique;
+}
+.n{
+
+height: 16px;
+
+margin-bottom: 9px;
+}
+.bd{
+
+width: 12%;
+
+margin-bottom: 7px;
+}
+.form-control{
+
+}
+.btn{
+	
+padding: 1px 20px;
+	
+background-color: seagreen;
+	
+color: beige;
+	
+text-transform: uppercase;
+	
+transition: 0.8s ease;
+	
+border: none;
+	
+outline: none;
+border-radius: 336px;
+}
